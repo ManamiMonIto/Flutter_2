@@ -1,16 +1,19 @@
-# my_app
+# Flutter lab 2
+> Location Infomation
 
-A new Flutter project.
+![screenshot](assets/images/main.png)
+![screenshot](assets/images/tokyopage.png)
 
-## Getting Started
+# Flutter lab 2
+1. Creating our first screen with `Scaffold`, `Text`, `Image` and `StatelessWidget`
+2. Layout Basics with `Column` 
+3. Lists using `ListView`
+4. Navigation with `Navigator`
+5. `StatefulWidget` fundamentals
 
-This project is a starting point for a Flutter application.
+# Reference
+-Wikipedia
 
-A few resources to get you started if this is your first Flutter project:
+- [Youtube - Flutter Crash Course](https://www.youtube.com/channel/UCRCpzcQz-t2ueVihCIx5jDg)
+- [Images - unsplash](https://unsplash.com)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
