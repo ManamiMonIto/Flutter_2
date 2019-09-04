@@ -1,8 +1,8 @@
 # Flutter lab 2
 > Location Infomation
 
-![screenshot](assets/images/main.jpg)
-![screenshot](assets/images/tokyopage.jpg)
+![screenshot|200x600](assets/images/main.jpg)
+![screenshot|200x600, 20%](assets/images/tokyopage.jpg)
 
 # Flutter lab 2
 1. Creating our first screen with `Scaffold`, `Text`, `Image` and `StatelessWidget`
