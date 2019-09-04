@@ -4,7 +4,6 @@
 ![screenshot](assets/images/main.png)
 ![screenshot](assets/images/tokyopage.png)
 
-# Flutter lab 2
 1. Creating our first screen with `Scaffold`, `Text`, `Image` and `StatelessWidget`
 2. Layout Basics with `Column` 
 3. Lists using `ListView`
